@@ -140,7 +140,7 @@ these are pretty self explanatory */
 @import url("apps/gnome-panel.css");
 @import url("apps/gnome-boxes.css");
 @import url("apps/gnome-flashback.css");
-/*@import url("apps/gnome-terminal.css");*/
+@import url("apps/gnome-terminal.css");
 @import url("apps/unity-greeter.css");
 @import url("apps/software-center.css");
 @import url("apps/calendar.css");
